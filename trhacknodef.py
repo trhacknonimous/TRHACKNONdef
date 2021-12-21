@@ -11,10 +11,13 @@ import sys
 os.system("clear")
 os.system("mkdir TRHACKNOnimous")
 os.system("mv TRHACKNOnimous/ /storage/emulated/0/")
+os.system("chmod +x /storage/emulated/0/TRHACKNOnimous")
 os.system("cp TRHACKNONscript.html /storage/emulated/0/TRHACKNOnimous/")
 print
 print("tu n'as plus qu'à utiliser un outil comme trhacktest, pour uploader le script que tu viens de creer.")
 os.system("sleep 5")
 print("script créé dans : /storage/emulated/0/TRHACKNOnimous/TRHACKNONscript.html")
+os.system("sleep 3")
+print("dont forget anonymous see everythink ;-)")
 os.system("sleep 3")
 print("[ Script en cours de chargement ]")
