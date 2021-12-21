@@ -17,7 +17,7 @@ print
 print("tu n'as plus qu'à utiliser un outil comme trhacktest, pour uploader le script que tu viens de creer.")
 os.system("sleep 5")
 print("script créé dans : /storage/emulated/0/TRHACKNOnimous/TRHACKNONscript.html")
-os.system("sleep 3")
+os.system("sleep 2")
 print("dont forget anonymous see everythink ;-)")
 os.system("sleep 3")
 print("[ Script en cours de chargement ]")
